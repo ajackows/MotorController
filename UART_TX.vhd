@@ -1,6 +1,4 @@
-----------------------------------------------------------------------
--- File Downloaded from http://www.nandland.com
-----------------------------------------------------------------------
+-- based off of UART core found online
 -- This file contains the UART Transmitter.  This transmitter is able
 -- to transmit 8 bits of serial data, one start bit, one stop bit,
 -- and no parity bit.  When transmit is complete o_TX_Done will be
