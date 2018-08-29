@@ -1,6 +1,4 @@
-----------------------------------------------------------------------
--- File Downloaded from http://www.nandland.com
-----------------------------------------------------------------------
+-- Based on UART core found online
 -- This file contains the UART Receiver.  This receiver is able to
 -- receive 8 bits of serial data, one start bit, one stop bit,
 -- and no parity bit.  When receive is complete o_rx_dv will be
